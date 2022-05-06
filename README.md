@@ -1,5 +1,5 @@
 # Haemodynamic Phase Correlation Signal (HPC)
-# The code here computes the HPC signal for fNIRS data, plots the output in a spectrogram, and computes beta values from the resultant hpc data. See here for the publication detailing the method and results. Requires standard MATLAB toolboxes and wavelet toolbox. 
+# The code here computes the HPC signal for fNIRS data, plots the output in a spectrogram, and computes beta values from the resultant hpc data. See here for the publication detailing the method and results. Requires standard MATLAB toolboxes, wavelet toolbox, redblue colormap and InterX functions are required for hpcplot and rev_artifact_detect functions. 
 
 # hpc.m 
 

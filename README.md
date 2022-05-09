@@ -3,7 +3,7 @@
 
 # hpc.m 
 
-#Computes HPC signal. Inputs required are HbO and HHb data, t as vector or integer (uses time vector to compute fs, or you can give it fs directly), desired frequencies of interest. Outputs full spectrogram, frequencies of interest from HPC, and frequencies of input data. 
+# Computes HPC signal. Inputs required are HbO and HHb data, t as vector or integer (uses time vector to compute fs, or you can give it fs directly), desired frequencies of interest. Outputs full spectrogram, frequencies of interest from HPC, and frequencies of input data. 
 
 # hpcplot.m
 # Plots hpc spectrogram using redblue colormap. Takes either HPC signal as input or HPC and time vector. 
